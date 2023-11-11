@@ -5,9 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teran-pedro-fabian&label=Profile%20views&color=0e75b6&style=flat" alt="teran-pedro-fabian" /> < /p>
 
 
-- 🌱 actualmente estoy estudiando en **la Facultad de Ciencias Exactas de la UNICEN, y estoy haciendo la carrera de TUDAI(Tecnicatura en desarrollo de aplicaciones informáticas)** - 👨‍💻 Todos
-
-mis proyectos están disponibles en [este github por ahora](este github por ahora)
+- 🌱 actualmente estoy estudiando en **la Facultad de Ciencias Exactas de la UNICEN, y estoy haciendo la carrera de TUDAI(Tecnicatura en desarrollo de aplicaciones informáticas)**
+- 👨‍💻 Todos mis proyectos están disponibles en [este github por ahora](este github por ahora)
 
 - 💬 tengo conocimientos en **java, css, html, js, php**
 
