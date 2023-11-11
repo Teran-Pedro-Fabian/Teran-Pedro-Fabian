@@ -6,15 +6,14 @@
 
 
 - 🌱 actualmente estoy estudiando en **la Facultad de Ciencias Exactas de la UNICEN, y estoy haciendo la carrera de TUDAI(Tecnicatura en desarrollo de aplicaciones informáticas)**
-- 👨‍💻 Todos mis proyectos están disponibles en [este github por ahora](este github por ahora)
+- 👨‍💻 Todos mis proyectos están disponibles en este github por ahora
 
 - 💬 tengo conocimientos en **java, css, html, js, php**
 
 - 📫 mi correo electrónico es **teranpedrofabian@gmail.com**
 
-- Me encanta hacer deporte **creo que es demaciado importante desarrolar tanto la mente como el cuerpo, y actualmente estoy yendo al gimnasio, para poder desarrollar mi cuerpo tanto como mi mente, además de cumplir mis metas dentro de este ámbito** <h3 align="
-
-left">Connect with me :</h3>
+- Me encanta hacer deporte **creo que es demaciado importante desarrolar tanto la mente como el cuerpo, y actualmente estoy yendo al gimnasio, para poder desarrollar mi cuerpo tanto como mi mente, además de cumplir mis metas dentro de este ámbito**
+- <h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pedro terán" target="blank"><img align="center" src="https:/ /raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro terán" height="30" width="40 " /></a>
 <a href="https://instagram.com/teran2931" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/ github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="teran2931" height="30" width="40" /></a> </p> <
