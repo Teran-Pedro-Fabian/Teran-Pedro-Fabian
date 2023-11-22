@@ -12,7 +12,7 @@
 
 - 📫 mi correo electrónico es **teranpedrofabian@gmail.com**
 
-- Me encanta hacer deporte **creo que es demaciado importante desarrolar tanto la mente como el cuerpo, y actualmente estoy yendo al gimnasio para poder cumplir mis metas dentro de este ámbito**
+- Me encanta hacer deporte **creo que es demasiado importante desarrollar tanto la mente como el cuerpo, y actualmente estoy yendo al gimnasio para poder cumplir mis metas dentro de este ámbito**
 - <h3 align="left">me encontras en :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pedro terán" target="blank"><img align="center" src="https:/ /raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro terán" height="30" width="40 " /></a>
