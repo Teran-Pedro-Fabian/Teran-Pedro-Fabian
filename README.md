@@ -1,4 +1,4 @@
-### Hollaaa 👋
+### Holaaa 👋
 <h1 align="center">soy Pedro Fabián Terán</h1>
 <h3 align="center">Hay que ser siempre mejor que ayer y peor que mañana, tanto en cuerpo como en mente.</h3>
 
