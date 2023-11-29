@@ -2,7 +2,6 @@
 <h1 align="center">soy Pedro Fabián Terán</h1>
 <h3 align="center">Hay que ser siempre mejor que ayer y peor que mañana, tanto en cuerpo como en mente.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=teran-pedro-fabian&label=Profile%20views&color=0e75b6&style=flat" alt="teran-pedro-fabian" /> < /p>
 
 
 - 🌱 actualmente estoy estudiando en **la Facultad de Ciencias Exactas de la UNICEN, y estoy haciendo la carrera de TUDAI(Tecnicatura en desarrollo de aplicaciones informáticas)**
